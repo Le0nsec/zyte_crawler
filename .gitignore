@@ -1,0 +1,7 @@
+xz.aliyun.com.*
+tttang.com.*
+paper.seebug.org.*
+*.txt
+*.tar.gz
+.DS_Store
+.vscode

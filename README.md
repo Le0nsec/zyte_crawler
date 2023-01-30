@@ -7,3 +7,7 @@ A crawler for xz.aliyun.com、paper.seebug.org、tttang.com powered by zyte.
 - Python 3.6+
 - pip install zyte-autoextract
 - API key for [Zyte - Automatic Extraction](https://www.zyte.com/)
+
+## Usage
+
+main.py -> convert.py -> dump_img.py
